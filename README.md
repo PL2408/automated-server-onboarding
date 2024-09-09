@@ -1,5 +1,5 @@
-# automated-server-onboarding
-This project provides a Bash script for automating the process of adding a new user to a Linux server. It sets up SSH access for the user, assigns the user to the `sudo` group, and configures the system to allow the user to run `sudo` commands without being prompted for a password.
+# automated-server-onboarding CentOS Linux server
+This project provides a Bash script for automating the process of adding a new user to a CentOS Linux server. It sets up SSH access for the user, assigns the user to the `sudo` group, and configures the system to allow the user to run `sudo` commands without being prompted for a password.
 
 ## Prerequisites
 
